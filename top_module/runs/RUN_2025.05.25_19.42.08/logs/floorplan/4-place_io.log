@@ -1,0 +1,60 @@
+OpenROAD b16bda7e82721d10566ff7e2b68f1ff0be9f9e38 
+Features included (+) or not (-): +Charts +GPU +GUI +Python
+This program is licensed under the BSD-3 license. See the LICENSE file for details.
+Components of this program may be licensed under more restrictive licenses which must be honored.
+Top-level design name: top_module
+Block boundaries: 0 0 50000 50000
+Horizontal Tracks Origin: 340, Count: 73, Step: 680
+Vertical Tracks Origin: 230, Count: 109, Step: 460
+Placement details for the #N side
+Virtual pin count:  0
+Actual pin count:  32
+Total pin count:  32
+Tracks count:  109
+Tracks per pin:  3
+Used tracks count:  94
+Unused track count:  15
+Starting track index:  7
+Placement Map:
+[230, 690, 1150, 1610, 2070, 2530, 2990, [91m3450[0m, 3910, 4370, [91m4830[0m, 5290, 5750, [91m6210[0m, 6670, 7130, [91m7590[0m, 8050, 8510, [91m8970[0m, 9430, 9890, [91m10350[0m, 10810, 11270, [91m11730[0m, 12190, 12650, [91m13110[0m, 13570, 14030, [91m14490[0m, 14950, 15410, [91m15870[0m, 16330, 16790, [91m17250[0m, 17710, 18170, [91m18630[0m, 19090, 19550, [91m20010[0m, 20470, 20930, [91m21390[0m, 21850, 22310, [91m22770[0m, 23230, 23690, [91m24150[0m, 24610, 25070, [91m25530[0m, 25990, 26450, [91m26910[0m, 27370, 27830, [91m28290[0m, 28750, 29210, [91m29670[0m, 30130, 30590, [91m31050[0m, 31510, 31970, [91m32430[0m, 32890, 33350, [91m33810[0m, 34270, 34730, [91m35190[0m, 35650, 36110, [91m36570[0m, 37030, 37490, [91m37950[0m, 38410, 38870, [91m39330[0m, 39790, 40250, [91m40710[0m, 41170, 41630, [91m42090[0m, 42550, 43010, [91m43470[0m, 43930, 44390, [91m44850[0m, 45310, 45770, [91m46230[0m, 46690, 47150, 47610, 48070, 48530, 48990, 49450, 49910, ]
+Indices of used tracks: [7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43, 46, 49, 52, 55, 58, 61, 64, 67, 70, 73, 76, 79, 82, 85, 88, 91, 94, 97, 100]
+---
+Placement details for the #E side
+Virtual pin count:  0
+Actual pin count:  7
+Total pin count:  7
+Tracks count:  37
+Tracks per pin:  5
+Used tracks count:  31
+Unused track count:  6
+Starting track index:  3
+Placement Map:
+[340, 1700, 3060, [91m4420[0m, 5780, 7140, 8500, 9860, [91m11220[0m, 12580, 13940, 15300, 16660, [91m18020[0m, 19380, 20740, 22100, 23460, [91m24820[0m, 26180, 27540, 28900, 30260, [91m31620[0m, 32980, 34340, 35700, 37060, [91m38420[0m, 39780, 41140, 42500, 43860, [91m45220[0m, 46580, 47940, 49300, ]
+Indices of used tracks: [3, 8, 13, 18, 23, 28, 33]
+---
+Placement details for the #S side
+Virtual pin count:  0
+Actual pin count:  3
+Total pin count:  3
+Tracks count:  109
+Tracks per pin:  36
+Used tracks count:  73
+Unused track count:  36
+Starting track index:  18
+Placement Map:
+[230, 690, 1150, 1610, 2070, 2530, 2990, 3450, 3910, 4370, 4830, 5290, 5750, 6210, 6670, 7130, 7590, 8050, [91m8510[0m, 8970, 9430, 9890, 10350, 10810, 11270, 11730, 12190, 12650, 13110, 13570, 14030, 14490, 14950, 15410, 15870, 16330, 16790, 17250, 17710, 18170, 18630, 19090, 19550, 20010, 20470, 20930, 21390, 21850, 22310, 22770, 23230, 23690, 24150, 24610, [91m25070[0m, 25530, 25990, 26450, 26910, 27370, 27830, 28290, 28750, 29210, 29670, 30130, 30590, 31050, 31510, 31970, 32430, 32890, 33350, 33810, 34270, 34730, 35190, 35650, 36110, 36570, 37030, 37490, 37950, 38410, 38870, 39330, 39790, 40250, 40710, 41170, [91m41630[0m, 42090, 42550, 43010, 43470, 43930, 44390, 44850, 45310, 45770, 46230, 46690, 47150, 47610, 48070, 48530, 48990, 49450, 49910, ]
+Indices of used tracks: [18, 54, 90]
+---
+Placement details for the #W side
+Virtual pin count:  0
+Actual pin count:  8
+Total pin count:  8
+Tracks count:  37
+Tracks per pin:  4
+Used tracks count:  29
+Unused track count:  8
+Starting track index:  4
+Placement Map:
+[340, 1700, 3060, 4420, [91m5780[0m, 7140, 8500, 9860, [91m11220[0m, 12580, 13940, 15300, [91m16660[0m, 18020, 19380, 20740, [91m22100[0m, 23460, 24820, 26180, [91m27540[0m, 28900, 30260, 31620, [91m32980[0m, 34340, 35700, 37060, [91m38420[0m, 39780, 41140, 42500, [91m43860[0m, 45220, 46580, 47940, 49300, ]
+Indices of used tracks: [4, 8, 12, 16, 20, 24, 28, 32]
+---

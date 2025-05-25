@@ -1,0 +1,23 @@
+{
+  "DESIGN_NAME": "top_module",
+  "VERILOG_FILES": "dir::src/*.v",
+  "CLOCK_TREE_SYNTH": true,
+  "CLOCK_PORT": "clk",
+  "CLOCK_PERIOD": 10,
+  "PNR_SDC_FILE": "dir::src/top_module.sdc",
+  "SIGNOFF_SDC_FILE": "dir::src/top_module.sdc",
+  "PL_RANDOM_GLB_PLACEMENT": true,
+  "FP_SIZING": "absolute",
+  "DIE_AREA": "0 0 50 50",
+  "PL_TARGET_DENSITY": 0.75,
+  "FP_PDN_AUTO_ADJUST": false,
+  "FP_PDN_VPITCH": 25,
+  "FP_PDN_HPITCH": 25,
+  "FP_PDN_VOFFSET": 5,
+  "FP_PDN_HOFFSET": 5,
+  "GRT_REPAIR_ANTENNAS": false,
+  "DIODE_ON_PORTS": false,
+  "RUN_HEURISTIC_DIODE_INSERTION": false,
+  "VSRC_LOC_FILES": null,
+  "FP_PIN_ORDER_CFG": "dir::pin_order.cfg"
+}

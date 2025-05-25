@@ -1,0 +1,22 @@
+%Warning-EOFNEWLINE: /openlane/designs/top_module/src/instruction_decoder.v:85:11: Missing newline at end of file (POSIX 3.206).
+                                                                                 : ... Suggest add newline.
+   85 | endmodule 
+      |           ^
+                     ... For warning description see https://verilator.org/warn/EOFNEWLINE?v=5.018
+                     ... Use "/* verilator lint_off EOFNEWLINE */" and lint_on around source to disable this message.
+%Warning-EOFNEWLINE: /openlane/designs/top_module/src/program_counter.v:17:11: Missing newline at end of file (POSIX 3.206).
+                                                                             : ... Suggest add newline.
+   17 | endmodule 
+      |           ^
+%Warning-EOFNEWLINE: /openlane/designs/top_module/src/register_file.v:42:11: Missing newline at end of file (POSIX 3.206).
+                                                                           : ... Suggest add newline.
+   42 | endmodule 
+      |           ^
+%Warning-EOFNEWLINE: /openlane/designs/top_module/src/instruction_memory.v:24:11: Missing newline at end of file (POSIX 3.206).
+                                                                                : ... Suggest add newline.
+   24 | endmodule 
+      |           ^
+%Warning-EOFNEWLINE: /openlane/designs/top_module/src/alu.v:21:11: Missing newline at end of file (POSIX 3.206).
+                                                                 : ... Suggest add newline.
+   21 | endmodule 
+      |           ^

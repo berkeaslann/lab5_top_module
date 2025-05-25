@@ -1,0 +1,8 @@
+OpenROAD b16bda7e82721d10566ff7e2b68f1ff0be9f9e38 
+Features included (+) or not (-): +Charts +GPU +GUI +Python
+This program is licensed under the BSD-3 license. See the LICENSE file for details.
+Components of this program may be licensed under more restrictive licenses which must be honored.
+Top-level design name: top_module
+[WARNING]: Some pins weren't matched by the config file
+Those are: ['an[0]', 'an[1]', 'an[2]', 'an[3]', 'an[4]', 'an[5]', 'an[6]', 'an[7]', 'control', 'result[0]', 'result[1]', 'result[2]', 'result[3]', 'result[4]', 'result[5]', 'result[6]', 'result[7]', 'result[8]', 'result[9]', 'result[10]', 'result[11]', 'result[12]', 'result[13]', 'result[14]', 'result[15]', 'result[16]', 'result[17]', 'result[18]', 'result[19]', 'result[20]', 'result[21]', 'result[22]', 'result[23]', 'result[24]', 'result[25]', 'result[26]', 'result[27]', 'result[28]', 'result[29]', 'result[30]', 'result[31]', 'seg[0]', 'seg[1]', 'seg[2]', 'seg[3]', 'seg[4]', 'seg[5]', 'seg[6]']
+Treating unmatched pins as errors. Exiting..
